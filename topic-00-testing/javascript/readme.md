@@ -1,1 +1,1 @@
-javascript brickout program with tdd tests
+javascript brickout program with bdd tests
